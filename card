@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/IHbd3570pg.jpg" 
+                    src="https://i.imghippo.com/files/s8148HeE.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Ferdinand Julius Cohn</h2>
-    <p><strong>Lifetime:</strong> 1828–1898</p>
-    <p><strong>Title:</strong> Pioneer of Bacteriology</p>
-    <p><strong>Achievements:</strong> Ferdinand Julius Cohn is considered one of the foundational figures in the field of bacteriology. In 1853, he made a groundbreaking contribution by classifying bacteria into distinct groups based on their shapes—such as cocci, bacilli, and spirilla. This classification system became the cornerstone of modern bacteriology. In 1857, Cohn further revolutionized microbiology by discovering the existence of bacterial spores, which are highly resistant to extreme conditions like heat and drought. This finding not only expanded our understanding of bacterial survival but also laid the groundwork for advancements in sterilization and preservation techniques. In 1876, he proposed that bacteria should be classified within the plant kingdom due to their similar characteristics to plants, a view that influenced later developments in microbiology. In 1883, Cohn published his influential work on the classification of bacteria and algae, which was instrumental in shaping the future of microbiological research and taxonomy.</p>
-    <p><strong>Legacy:</strong> Cohn's pioneering research laid the essential foundation for the development of bacteriology as a scientific discipline. His classification system for bacteria helped to organize the vast diversity of microbial life, while his discovery of bacterial spores proved crucial in the study of microbial resistance and survival. These advancements have had lasting impacts on medicine, agriculture, and public health. His work also set the stage for later microbiologists, such as Louis Pasteur and Robert Koch, who would build upon Cohn’s discoveries to further explore the relationship between bacteria and disease. Ferdinand Julius Cohn is often regarded as one of the founders of modern microbiology, and his contributions continue to influence the study of microorganisms and their roles in both health and disease today.</p>
+    <h2>Sergei N Winogradsky</h2>
+    <p><strong>Lifetime:</strong> 1856–1953</p>
+    <p><strong>Title:</strong> Founder of Soil and General Microbiology</p>
+    <p><strong>Achievements:</strong> Sergei N. Winogradsky was a pioneering microbiologist known for his discovery of chemolithotrophy and his significant contributions to microbial ecology. One of his key discoveries was the role of microorganisms in the nitrogen cycle, particularly his identification of Nitrosomonas and Nitrobacter, bacteria responsible for nitrification. He also discovered Beggiatoa, a sulfur-oxidizing bacterium, and demonstrated that certain microbes could derive energy from inorganic compounds, a process he termed chemolithotrophy. His work laid the foundation for understanding microbial metabolism and the environmental roles of bacteria in biogeochemical cycles. Winogradsky’s discoveries greatly influenced soil microbiology and helped establish microbiology as a field of ecological and biochemical significance.</p>
+    <p><strong>Legacy:</strong> Sergei N. Winogradsky's legacy in microbiology is profound, as he is widely regarded as one of the founding figures of microbial ecology and biogeochemistry. His pioneering work in the late 19th and early 20th centuries laid the foundation for understanding the role of microorganisms in natural processes, particularly in soil environments. Winogradsky discovered key bacterial groups involved in essential biogeochemical cycles, such as nitrifying bacteria (e.g., Nitrosomonas and Nitrobacter) and sulfur bacteria (e.g., Beggiatoa), highlighting their role in nutrient cycling. He also introduced the concept of chemolithotrophy, demonstrating that certain bacteria can derive energy from inorganic compounds instead of organic matter. Furthermore, he developed the "Winogradsky column," a laboratory model for studying microbial communities and their interactions in stratified ecosystems. His research not only deepened scientific understanding of microbial metabolism but also paved the way for advances in agriculture, environmental science, and industrial microbiology. Winogradsky’s contributions continue to influence microbiologists today, shaping modern approaches to studying microbial ecology and biotechnology.</p>
 </div>
 
 
