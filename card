@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/zzWD8726WR.png" 
+                    src="https://i.imghippo.com/files/Axk7134UsU.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Erwin F. Smith</h2>
-    <p><strong>Lifetime:</strong> 1854–1927</p>
-    <p><strong>Title:</strong> Father of Phytobacteriology</p>
-    <p><strong>Achievements:</strong> While it was known that microorganisms could cause diseases in animals and humans, the idea that bacteria could cause diseases in plants was not widely accepted. Through comprehensive experimentation and observation, Erwin F. Smith affirmed that bacteria were responsible for various plant diseases, such as cucurbits' bacterial wilt and crucifers' black rot. He isolated and identified the specific bacteria that cause diseases, providing definitive evidence for the role of bacteria in plant pathology.</p>
-    <p><strong>Legacy:</strong> Smith's research profoundly impacted agriculture and our understanding of plant well-being. By illustrating the role of bacteria in plant diseases, he paved the way for developing strategies to control these diseases and improve crop yields. His work led to better farming practices, including crop rotation, sanitation, and the development of resistant crop varieties. This has had a significant impact on food production and the global economy.</p>
+    <h2>David Bruce</h2>
+    <p><strong>Lifetime:</strong> 1855–1931</p>
+    <p><strong>Title:</strong> Pioneer of Veterinary Microbiology</p>
+    <p><strong>Achievements:</strong> Charles Louis Alphonse Laveran made a groundbreaking discovery in microbiology by identifying the parasite responsible for malaria. In 1880, while working at a military hospital in Algeria, Laveran observed microscopic parasites in the blood of malaria-infected patients. Through careful examination, he noted that these parasites, later classified as *Plasmodium*, were actively moving within red blood cells. His findings provided the first concrete evidence that malaria was caused by a protozoan rather than environmental factors, as previously believed. This discovery laid the foundation for further research on malaria transmission, eventually leading to the identification of mosquitoes as disease vectors. Laveran’s work earned him the Nobel Prize in Physiology or Medicine in 1907 and greatly advanced the fields of microbiology and tropical medicine.</p>
+    <p><strong>Legacy:</strong> Charles Louis Alphonse Laveran's legacy in microbiology is profound, particularly in the field of parasitology. In 1880, he discovered *Plasmodium*, the protozoan parasite responsible for malaria, while working at a military hospital in Algeria. This groundbreaking finding provided the first definitive proof that protozoa could cause disease, challenging prevailing medical theories and laying the foundation for modern parasitology. Laveran's work revolutionized the understanding of vector-borne diseases, paving the way for further research into malaria transmission, prevention, and treatment. In recognition of his contributions, he was awarded the Nobel Prize in Physiology or Medicine in 1907. Beyond malaria research, Laveran also made significant advances in the study of other protozoan diseases, helping to establish medical protozoology as a distinct discipline. His discoveries continue to influence global efforts to combat malaria and other infectious diseases.</p>
 </div>
 
 
