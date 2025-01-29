@@ -62,11 +62,11 @@
             overflow: hidden;
         }
 
-        .card-back iframe,
-        .card-front iframe {
+        .card-back img,
+        .card-front img {
             width: 100%;
             height: 100%;
-            border: none;
+            object-fit: cover;
         }
 
         .card-front {
@@ -117,10 +117,10 @@
     <div class="card-container">
         <div class="card" id="gameCard">
             <div class="card-face card-back">
-                <iframe id="backImage" allowfullscreen></iframe>
+                <img id="backImage" alt="Card Back">
             </div>
             <div class="card-face card-front">
-                <iframe id="frontImage" allowfullscreen></iframe>
+                <img id="frontImage" alt="Card Front">
             </div>
         </div>
     </div>
@@ -134,18 +134,18 @@
     </div>
 
     <script>
-        function getGoogleDrivePreviewUrl(url) {
+        function getGoogleDriveDirectUrl(url) {
             const regex = /\/file\/d\/([^/]+)\//;
             const match = url.match(regex);
-            return match ? `https://drive.google.com/file/d/${match[1]}/preview` : url;
+            return match ? `https://drive.google.com/uc?export=view&id=${match[1]}` : url;
         }
 
-        // Set Google Drive images
+        // Google Drive Image Links
         const backImageUrl = "https://drive.google.com/file/d/1QZhYr7GPXZO1Jmz_9_NxDQWGuIINSvfj/view?usp=sharing";
         const frontImageUrl = "https://drive.google.com/file/d/FRONT_IMAGE_FILE_ID/view?usp=sharing";
 
-        document.getElementById("backImage").src = getGoogleDrivePreviewUrl(backImageUrl);
-        document.getElementById("frontImage").src = getGoogleDrivePreviewUrl(frontImageUrl);
+        document.getElementById("backImage").src = getGoogleDriveDirectUrl(backImageUrl);
+        document.getElementById("frontImage").src = getGoogleDriveDirectUrl(frontImageUrl);
 
         // Flip effect
         const card = document.getElementById('gameCard');
