@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/WlCI2535E.png" 
+                    src="https://i.imghippo.com/files/Go9505HyY.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Albert Leon Charles Calmette</h2>
-    <p><strong>Lifetime:</strong> 1863–1933</p>
-    <p><strong>Title:</strong> Antituberculosis and BCG Vaccination</p>
-    <p><strong>Achievements:</strong> Albert Calmette (1863–1933) was a French bacteriologist and immunologist best known for his groundbreaking work on tuberculosis and the development of the BCG vaccine.  Calmette, along with his colleague Camille Guérin, developed the Bacillus Calmette-Guérin (BCG), an attenuated strain of Mycobacterium bovis, used to vaccinate against tuberculosis. This vaccine, developed through years of meticulous research, has been instrumental in preventing and controlling tuberculosis worldwide.</p>
-    <p><strong>Legacy:</strong> Albert Calmette (1863–1933) left a lasting legacy in the fight against tuberculosis.  His most significant contribution was the development of the Bacillus Calmette-Guérin (BCG) vaccine, created in collaboration with Camille Guérin. This vaccine, developed through years of meticulous research, has been instrumental in preventing and controlling tuberculosis worldwide.  Calmette's work also extended to public health initiatives, including the establishment of the first antituberculosis dispensary in Lille, France, and the founding of the "Ligue du Nord contre la Tuberculose" (Northern Anti-Tuberculosis League), which continues to operate today.  Calmette's dedication to research and his pioneering work in immunology have saved countless lives and continue to influence medical practices in the fight against tuberculosis.</p>
+    <h2>Charles J H Nicolle</h2>
+    <p><strong>Lifetime:</strong> 1866–1936</p>
+    <p><strong>Title:</strong> Pioneer of Typhus Studies</p>
+    <p><strong>Achievements:</strong> Charles Jules Henri Nicolle (1866–1936) made a groundbreaking discovery in the field of infectious diseases.  In 1909, while studying typhus outbreaks in Tunisia, Nicolle demonstrated that the disease was transmitted by body lice (Pediculus humanus corporis). This discovery, made through meticulous experiments involving monkeys and lice, revolutionized our understanding of typhus transmission and led to the development of preventive measures, such as delousing, which significantly reduced the incidence of this deadly disease.</p>
+    <p><strong>Legacy:</strong> Charles Jules Henri Nicolle (1866–1936) left a lasting legacy in the field of infectious diseases.  His most significant contribution was the discovery that typhus fever is transmitted by body lice, a groundbreaking finding that revolutionized our understanding of the disease and led to the development of preventive measures, such as delousing, which significantly reduced the incidence of typhus.  Nicolle's work also extended to other areas of research, including brucellosis, leishmaniasis, measles, rinderpest, scarlet fever, Mediterranean spotted fever, toxoplasmosis, trachoma, and tuberculosis. He is also credited with identifying the phenomenon of "inapparent infection," a state in which a carrier of a disease exhibits no symptoms, which has become a critical concept in understanding the epidemiology of many infectious diseases.</p>
 </div>
 
 
