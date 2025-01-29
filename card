@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/s8148HeE.png" 
+                    src="https://i.imghippo.com/files/zGz2897vHk.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Sergei N Winogradsky</h2>
-    <p><strong>Lifetime:</strong> 1856–1953</p>
-    <p><strong>Title:</strong> Founder of Soil and General Microbiology</p>
-    <p><strong>Achievements:</strong> Sergei N. Winogradsky was a pioneering microbiologist known for his discovery of chemolithotrophy and his significant contributions to microbial ecology. One of his key discoveries was the role of microorganisms in the nitrogen cycle, particularly his identification of Nitrosomonas and Nitrobacter, bacteria responsible for nitrification. He also discovered Beggiatoa, a sulfur-oxidizing bacterium, and demonstrated that certain microbes could derive energy from inorganic compounds, a process he termed chemolithotrophy. His work laid the foundation for understanding microbial metabolism and the environmental roles of bacteria in biogeochemical cycles. Winogradsky’s discoveries greatly influenced soil microbiology and helped establish microbiology as a field of ecological and biochemical significance.</p>
-    <p><strong>Legacy:</strong> Sergei N. Winogradsky's legacy in microbiology is profound, as he is widely regarded as one of the founding figures of microbial ecology and biogeochemistry. His pioneering work in the late 19th and early 20th centuries laid the foundation for understanding the role of microorganisms in natural processes, particularly in soil environments. Winogradsky discovered key bacterial groups involved in essential biogeochemical cycles, such as nitrifying bacteria (e.g., Nitrosomonas and Nitrobacter) and sulfur bacteria (e.g., Beggiatoa), highlighting their role in nutrient cycling. He also introduced the concept of chemolithotrophy, demonstrating that certain bacteria can derive energy from inorganic compounds instead of organic matter. Furthermore, he developed the "Winogradsky column," a laboratory model for studying microbial communities and their interactions in stratified ecosystems. His research not only deepened scientific understanding of microbial metabolism but also paved the way for advances in agriculture, environmental science, and industrial microbiology. Winogradsky’s contributions continue to influence microbiologists today, shaping modern approaches to studying microbial ecology and biotechnology.</p>
+    <h2>Kitasato Shibasaburo</h2>
+    <p><strong>Lifetime:</strong> 1853–1931</p>
+    <p><strong>Title:</strong> First to Isolate Clostridium tetani and a Pioneer of Serology</p>
+    <p><strong>Achievements:</strong> Kitasato Shibasaburo (1853–1931) was a prominent Japanese physician and bacteriologist renowned for his groundbreaking discoveries in infectious diseases. He is best known for his work on tetanus, diphtheria, and the bubonic plague. Kitasato's key contributions include the isolation of the tetanus bacillus in pure culture, the development of serum therapy for tetanus and diphtheria, and the independent discovery of the causative agent of the bubonic plague, Yersinia pestis.</p>
+    <p><strong>Legacy:</strong> His legacy extends beyond these discoveries, as he established the Institute for Infectious Diseases in Japan, which later became the National Institute for Infectious Diseases. He also founded the Kitasato Institute, a private research center that continues to contribute to medical research today. Kitasato's work laid the foundation for modern bacteriology and immunology, and his contributions to public health continue to impact medical practices worldwide.</p>
 </div>
 
 
