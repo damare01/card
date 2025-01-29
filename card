@@ -91,6 +91,8 @@
             padding: 15px;
             box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5);
             animation: slide-up 0.7s ease-out;
+            max-height: 300px; /* Set a maximum height for the info box */
+            overflow-y: auto; /* Enable scrolling if content exceeds max height */
         }
 
         .card-info.visible {
@@ -132,11 +134,8 @@
         <div class="card" id="gameCard">
             <div class="card-face card-back">
                 <!-- Using lazy loading for the back image -->
-
-                <!—This is for the back of the card, upload the image first on ibb, then copy and replace the link-->
-
                 <img 
-                    src="https://i.ibb.co/HXNL6zG/BACK-PORTION.jpg" 
+                    src="https://i.imghippo.com/files/aD5890l.jpg" 
                     alt="Card Back" 
                     width="220" 
                     height="320" 
@@ -144,11 +143,8 @@
             </div>
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
-
-                <!—This is for the front of the card, upload the image first on ibb, then copy and replace the link-->
-
                 <img 
-                    src="https://i.ibb.co/n7ggWsc/FRONT.jpg" 
+                    src="https://i.imghippo.com/files/pj8315sg.jpg" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -157,14 +153,12 @@
         </div>
     </div>
 
-                <!—Replace info -->
-
     <div class="card-info" id="cardInfo">
-        <h2>Antonie van Leeuwenhoek</h2>
-        <p><strong>Lifetime:</strong> 1632–1723</p>
-        <p><strong>Title:</strong> Father of Microbiology</p>
-        <p><strong>Achievements:</strong> Using meticulously crafted single-lens microscopes, he was the first to observe and describe microorganisms, which he called "animalcules." He observed bacteria, protozoa, and sperm cells, documenting their shapes and movements.</p>
-        <p><strong>Legacy:</strong> His letters to the Royal Society of London opened an entirely new world of microbiology.</p>
+        <h2>Louis Pasteur</h2>
+        <p><strong>Lifetime:</strong> 1822–1895</p>
+        <p><strong>Title:</strong> The Master of Microbiology</p>
+        <p><strong>Achievements:</strong> Louis Pasteur is best known for his groundbreaking work in microbiology, particularly for proving that microorganisms are responsible for fermentation and disease. In 1857, he discovered that fermentation is caused by microbes, leading to the development of pasteurization, a process that kills harmful bacteria in food and beverages. His work with the germ theory of disease demonstrated that microorganisms are the cause of many diseases, fundamentally changing medicine. Pasteur’s research also led to the creation of vaccines for diseases like anthrax and rabies, including the first successful rabies vaccine in 1885, which saved the life of a young boy.</p>
+        <p><strong>Legacy:</strong> Louis Pasteur's discoveries revolutionized public health and medicine, creating the framework for modern microbiology. His development of vaccines and pasteurization has saved countless lives and improved food safety worldwide. The germ theory he championed laid the foundation for the understanding and treatment of infectious diseases. Pasteur’s legacy endures in medical research, vaccine development, and sanitation practices, all of which have drastically reduced the impact of infectious diseases.</p>
     </div>
 
     <script>
