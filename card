@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Flip Game</title>
+    <style>
+        body {
+            font-family: 'Cinzel', serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #1e1e2e;
+            color: #d4af37;
+            animation: background-glow 5s infinite alternate;
+            overflow-y: auto; /* Allow scrolling when content exceeds viewport height */
+            overflow-x: hidden; /* Prevent horizontal scrolling */
+            position: relative;
+        }
+
+        @keyframes background-glow {
+            0% {
+                background-color: #1e1e2e;
+            }
+            100% {
+                background-color: #2c2c3e;
+            }
+        }
+
+        .card-container {
+            perspective: 1500px;
+            margin-bottom: 20px;
+            animation: fade-in 2s ease-in-out;
+        }
+
+        @keyframes fade-in {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .card {
+            width: 220px;
+            height: 320px;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.8s cubic-bezier(0.4, 0.2, 0.2, 1);
+            cursor: pointer;
+            border: 3px solid #d4af37;
+            border-radius: 12px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6), 0 6px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .card.is-flipped {
+            transform: rotateY(180deg);
+        }
+
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 12px;
+            overflow: hidden; /* Ensures the image is clipped to the card shape */
+        }
+
+        .card-back img,
+        .card-front img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .card-front {
+            transform: rotateY(180deg);
+        }
+
+        .card-info {
+            text-align: center;
+            display: none;
+            max-width: 320px;
+            background-color: rgba(30, 30, 46, 0.9);
+            border: 2px solid #d4af37;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5);
+            animation: slide-up 0.7s ease-out;
+        }
+
+        .card-info.visible {
+            display: block;
+        }
+
+        @keyframes slide-up {
+            0% {
+                transform: translateY(30px);
+                opacity: 0;
+            }
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .card-info h2 {
+            margin: 0;
+            font-size: 24px;
+            color: #ffdd93;
+        }
+
+        .card-info p {
+            margin: 8px 0;
+            font-size: 16px;
+        }
+
+        .card:hover {
+            box-shadow: 0 15px 25px rgba(0, 0, 0, 0.8), 0 10px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+    </style>
+</head>
+<body>
+
+    <div class="card-container">
+        <div class="card" id="gameCard">
+            <div class="card-face card-back">
+                <!-- Using lazy loading for the back image -->
+
+                <!—This is for the back of the card, upload the image first on ibb, then copy and replace the link-->
+
+                <img 
+                    src="https://i.ibb.co/HXNL6zG/BACK-PORTION.jpg" 
+                    alt="Card Back" 
+                    width="220" 
+                    height="320" 
+                    loading="lazy">
+            </div>
+            <div class="card-face card-front">
+                <!-- Using lazy loading for the front image -->
+
+                <!—This is for the front of the card, upload the image first on ibb, then copy and replace the link-->
+
+                <img 
+                    src="https://i.ibb.co/n7ggWsc/FRONT.jpg" 
+                    alt="Card Front" 
+                    width="220" 
+                    height="320" 
+                    loading="lazy">
+            </div>
+        </div>
+    </div>
+
+                <!—Replace info -->
+
+    <div class="card-info" id="cardInfo">
+        <h2>Antonie van Leeuwenhoek</h2>
+        <p><strong>Lifetime:</strong> 1632–1723</p>
+        <p><strong>Title:</strong> Father of Microbiology</p>
+        <p><strong>Achievements:</strong> Using meticulously crafted single-lens microscopes, he was the first to observe and describe microorganisms, which he called "animalcules." He observed bacteria, protozoa, and sperm cells, documenting their shapes and movements.</p>
+        <p><strong>Legacy:</strong> His letters to the Royal Society of London opened an entirely new world of microbiology.</p>
+    </div>
+
+    <script>
+        const card = document.getElementById('gameCard');
+        const cardInfo = document.getElementById('cardInfo');
+
+        card.addEventListener('click', () => {
+            card.classList.toggle('is-flipped');
+            cardInfo.classList.toggle('visible');
+        });
+    </script>
+
+</body>
+</html>
