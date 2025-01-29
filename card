@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/IHbd3570pg.jpg" 
+                    src="https://i.imghippo.com/files/zzWD8726WR.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Ferdinand Julius Cohn</h2>
-    <p><strong>Lifetime:</strong> 1828–1898</p>
-    <p><strong>Title:</strong> Pioneer of Bacteriology</p>
-    <p><strong>Achievements:</strong> Ferdinand Julius Cohn is considered one of the foundational figures in the field of bacteriology. In 1853, he made a groundbreaking contribution by classifying bacteria into distinct groups based on their shapes—such as cocci, bacilli, and spirilla. This classification system became the cornerstone of modern bacteriology. In 1857, Cohn further revolutionized microbiology by discovering the existence of bacterial spores, which are highly resistant to extreme conditions like heat and drought. This finding not only expanded our understanding of bacterial survival but also laid the groundwork for advancements in sterilization and preservation techniques. In 1876, he proposed that bacteria should be classified within the plant kingdom due to their similar characteristics to plants, a view that influenced later developments in microbiology. In 1883, Cohn published his influential work on the classification of bacteria and algae, which was instrumental in shaping the future of microbiological research and taxonomy.</p>
-    <p><strong>Legacy:</strong> Cohn's pioneering research laid the essential foundation for the development of bacteriology as a scientific discipline. His classification system for bacteria helped to organize the vast diversity of microbial life, while his discovery of bacterial spores proved crucial in the study of microbial resistance and survival. These advancements have had lasting impacts on medicine, agriculture, and public health. His work also set the stage for later microbiologists, such as Louis Pasteur and Robert Koch, who would build upon Cohn’s discoveries to further explore the relationship between bacteria and disease. Ferdinand Julius Cohn is often regarded as one of the founders of modern microbiology, and his contributions continue to influence the study of microorganisms and their roles in both health and disease today.</p>
+    <h2>Erwin F. Smith</h2>
+    <p><strong>Lifetime:</strong> 1854–1927</p>
+    <p><strong>Title:</strong> Father of Phytobacteriology</p>
+    <p><strong>Achievements:</strong> While it was known that microorganisms could cause diseases in animals and humans, the idea that bacteria could cause diseases in plants was not widely accepted. Through comprehensive experimentation and observation, Erwin F. Smith affirmed that bacteria were responsible for various plant diseases, such as cucurbits' bacterial wilt and crucifers' black rot. He isolated and identified the specific bacteria that cause diseases, providing definitive evidence for the role of bacteria in plant pathology.</p>
+    <p><strong>Legacy:</strong> Smith's research profoundly impacted agriculture and our understanding of plant well-being. By illustrating the role of bacteria in plant diseases, he paved the way for developing strategies to control these diseases and improve crop yields. His work led to better farming practices, including crop rotation, sanitation, and the development of resistant crop varieties. This has had a significant impact on food production and the global economy.</p>
 </div>
 
 
