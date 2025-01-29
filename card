@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/AKGz8919dJ.png" 
+                    src="https://i.imghippo.com/files/wqY7562VdA.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>Theobald Smith</h2>
-    <p><strong>Lifetime:</strong> 1859–1934</p>
-    <p><strong>Title:</strong> The Captain of American Microbe Hunters</p>
-    <p><strong>Achievements:</strong> Theobald Smith (1859–1934) was a pioneering American bacteriologist and pathologist whose key discovery revolutionized our understanding of disease transmission.  Smith's most significant contribution was the identification of Texas cattle fever as a tick-borne disease caused by the protozoan parasite Babesia bigemina. This discovery, made in collaboration with Fred Kilbourne and Cooper Curtice, marked the first definitive proof of an arthropod's role in transmitting an infectious disease, paving the way for later discoveries about insect-borne illnesses like malaria and yellow fever.</p>
-    <p><strong>Legacy:</strong> Theobald Smith (1859–1934) left a lasting legacy in the field of medicine, particularly in the understanding of infectious diseases. His most significant contribution was the discovery of the tick-borne nature of Texas cattle fever, a groundbreaking finding that established the role of arthropods in disease transmission. This discovery, made in collaboration with Fred Kilbourne, revolutionized our understanding of how diseases spread and paved the way for future research on insect-borne illnesses like malaria and yellow fever. Smith's work also led to the development of vaccines for hog cholera and diphtheria, and he made significant contributions to the study of tuberculosis, anaphylaxis, and other diseases. His dedication to research and his pioneering work in bacteriology and immunology continue to influence medical practices today.</p>
+    <h2>Alexandre Yersin</h2>
+    <p><strong>Lifetime:</strong> 1863–1943</p>
+    <p><strong>Title:</strong> Pioneer of Plague Fighter</p>
+    <p><strong>Achievements:</strong> Alexandre Yersin (1863–1943) was a Swiss-French bacteriologist who made a groundbreaking discovery in the field of infectious diseases. In 1894, while investigating a plague outbreak in Hong Kong, Yersin independently identified the bacterium responsible for the bubonic plague, Yersinia pestis. This discovery, made concurrently with Japanese bacteriologist Kitasato Shibasaburo, revolutionized our understanding of the disease and its transmission.  Yersin's work led to the development of anti-plague serums and contributed significantly to the control and prevention of this deadly disease.</p>
+    <p><strong>Legacy:</strong> Alexandre Émile Jean Yersin (1863–1943) left a lasting legacy in the fields of medicine and public health. His most significant contribution was the independent discovery of the bacterium responsible for the bubonic plague, Yersinia pestis, which was later named in his honor. This discovery, made concurrently with Japanese bacteriologist Kitasato Shibasaburo, revolutionized our understanding of the disease and its transmission, leading to the development of anti-plague serums and contributing to its control. Yersin's dedication to public health extended beyond his research, as he established a laboratory in Nha Trang, Vietnam, to produce anti-plague serum and later founded the medical school in Hanoi. He also made significant contributions to agriculture in Vietnam, introducing rubber trees and quinine trees, which helped improve the local economy and health. Yersin is fondly remembered in Vietnam, where he is considered a national hero and a benefactor.</p>
 </div>
 
 
