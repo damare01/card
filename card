@@ -164,7 +164,7 @@
             <div class="card-face card-front">
                 <!-- Using lazy loading for the front image -->
                 <img 
-                    src="https://i.imghippo.com/files/Axk7134UsU.png" 
+                    src="https://i.imghippo.com/files/s8148HeE.png" 
                     alt="Card Front" 
                     width="220" 
                     height="320" 
@@ -174,11 +174,11 @@
     </div>
 
     <div class="card-info" id="cardInfo">
-    <h2>David Bruce</h2>
-    <p><strong>Lifetime:</strong> 1855–1931</p>
-    <p><strong>Title:</strong> Pioneer of Veterinary Microbiology</p>
-    <p><strong>Achievements:</strong> David Bruce, a Scottish microbiologist and pathologist, made significant contributions to microbiology, particularly in the study of infectious diseases. His most notable discovery was identifying *Trypanosoma brucei*, the parasitic protozoan responsible for African trypanosomiasis, also known as sleeping sickness. In the late 19th and early 20th centuries, while working in what is now Zimbabwe, Bruce traced the disease to the tsetse fly (*Glossina*) as its vector, establishing the connection between the parasite, the fly, and the disease. This breakthrough was crucial in understanding how the disease spread and led to efforts in controlling tsetse fly populations to prevent transmission. Additionally, Bruce identified *Brucella* bacteria, the causative agent of brucellosis (Malta fever), which affects both humans and livestock. His research on bacterial and parasitic diseases helped advance medical microbiology and epidemiology, influencing strategies for disease prevention and control worldwide.</p>
-    <p><strong>Legacy:</strong> David Bruce's legacy in microbiology is significant, particularly for his contributions to the understanding of infectious diseases. He is best known for identifying *Trypanosoma brucei*, the parasite responsible for African trypanosomiasis (sleeping sickness), a disease transmitted by the tsetse fly. His research also led to crucial insights into brucellosis, a bacterial infection caused by *Brucella* species, which was later named in his honor. Bruce's meticulous investigations into disease transmission mechanisms laid the groundwork for modern epidemiology and tropical medicine. His work not only advanced microbiology but also helped in the development of strategies to combat vector-borne diseases, ultimately saving countless lives.</p>
+    <h2>Sergei N Winogradsky</h2>
+    <p><strong>Lifetime:</strong> 1856–1953</p>
+    <p><strong>Title:</strong> Founder of Soil and General Microbiology</p>
+    <p><strong>Achievements:</strong> Sergei N. Winogradsky was a pioneering microbiologist known for his discovery of chemolithotrophy and his significant contributions to microbial ecology. One of his key discoveries was the role of microorganisms in the nitrogen cycle, particularly his identification of *Nitrosomonas* and *Nitrobacter*, bacteria responsible for nitrification. He also discovered *Beggiatoa*, a sulfur-oxidizing bacterium, and demonstrated that certain microbes could derive energy from inorganic compounds, a process he termed chemolithotrophy. His work laid the foundation for understanding microbial metabolism and the environmental roles of bacteria in biogeochemical cycles. Winogradsky’s discoveries greatly influenced soil microbiology and helped establish microbiology as a field of ecological and biochemical significance.</p>
+    <p><strong>Legacy:</strong> Sergei N. Winogradsky's legacy in microbiology is profound, as he is widely regarded as one of the founding figures of microbial ecology and biogeochemistry. His pioneering work in the late 19th and early 20th centuries laid the foundation for understanding the role of microorganisms in natural processes, particularly in soil environments. Winogradsky discovered key bacterial groups involved in essential biogeochemical cycles, such as nitrifying bacteria (e.g., *Nitrosomonas* and *Nitrobacter*) and sulfur bacteria (e.g., *Beggiatoa*), highlighting their role in nutrient cycling. He also introduced the concept of chemolithotrophy, demonstrating that certain bacteria can derive energy from inorganic compounds instead of organic matter. Furthermore, he developed the "Winogradsky column," a laboratory model for studying microbial communities and their interactions in stratified ecosystems. His research not only deepened scientific understanding of microbial metabolism but also paved the way for advances in agriculture, environmental science, and industrial microbiology. Winogradsky’s contributions continue to influence microbiologists today, shaping modern approaches to studying microbial ecology and biotechnology.</p>
 </div>
 
 
